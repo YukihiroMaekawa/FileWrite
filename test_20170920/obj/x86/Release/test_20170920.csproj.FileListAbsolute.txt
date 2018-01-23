@@ -1,0 +1,3 @@
+/Users/yukihiro/Projects/test_20170920/test_20170920/bin/Release/test_20170920.exe
+/Users/yukihiro/Projects/test_20170920/test_20170920/obj/x86/Release/test_20170920.csproj.CoreCompileInputs.cache
+/Users/yukihiro/Projects/test_20170920/test_20170920/obj/x86/Release/test_20170920.exe

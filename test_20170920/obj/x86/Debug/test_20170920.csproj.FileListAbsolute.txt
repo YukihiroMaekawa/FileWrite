@@ -1,0 +1,10 @@
+/Users/yukihiro/Projects/test_20170920/test_20170920/obj/x86/Debug/test_20170920.csproj.CoreCompileInputs.cache
+/Users/yukihiro/Projects/test_20170920/test_20170920/bin/Debug/test_20170920.exe
+/Users/yukihiro/Projects/test_20170920/test_20170920/bin/Debug/test_20170920.pdb
+/Users/yukihiro/Projects/test_20170920/test_20170920/obj/x86/Debug/test_20170920.exe
+/Users/yukihiro/Projects/test_20170920/test_20170920/obj/x86/Debug/test_20170920.pdb
+/Users/yukihiro/git/FileWrite/test_20170920/bin/Debug/test_20170920.exe
+/Users/yukihiro/git/FileWrite/test_20170920/bin/Debug/test_20170920.pdb
+/Users/yukihiro/git/FileWrite/test_20170920/obj/x86/Debug/test_20170920.csproj.CoreCompileInputs.cache
+/Users/yukihiro/git/FileWrite/test_20170920/obj/x86/Debug/test_20170920.exe
+/Users/yukihiro/git/FileWrite/test_20170920/obj/x86/Debug/test_20170920.pdb
