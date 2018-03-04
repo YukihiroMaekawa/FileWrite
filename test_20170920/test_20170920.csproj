@@ -32,8 +32,17 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FileWriter.cs" />
+    <Compile Include="ID.cs" />
+    <Compile Include="MailAddress.cs" />
+    <Compile Include="SmtpCode.cs" />
+    <Compile Include="DateTime.cs" />
+    <Compile Include="LoginId.cs" />
+    <Compile Include="RandomString.cs" />
+    <Compile Include="Utility.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="QuestionOne.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

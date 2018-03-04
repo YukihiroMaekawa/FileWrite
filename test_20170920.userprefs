@@ -1,7 +1,17 @@
 ﻿<Properties StartupConfiguration="{33BBE709-16C0-4478-8DC5-7FCFBF5F3275}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="test_20170920/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="状態: FileWrite">
     <Files>
-      <File FileName="test_20170920/Program.cs" Line="23" Column="1" />
+      <File FileName="test_20170920/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="test_20170920/ID.cs" Line="8" Column="9" />
+      <File FileName="test_20170920/MailAddress.cs" Line="4" Column="1" />
+      <File FileName="test_20170920/SmtpCode.cs" Line="24" Column="1" />
+      <File FileName="test_20170920/DateTime.cs" Line="32" Column="1" />
+      <File FileName="test_20170920/LoginID.cs" Line="3" Column="1" />
+      <File FileName="test_20170920/RandomString.cs" Line="3" Column="1" />
+      <File FileName="test_20170920/Utility.cs" Line="2" Column="1" />
+      <File FileName="test_20170920/Main.cs" Line="12" Column="10" />
+      <File FileName="test_20170920/QuestionOne.cs" Line="2" Column="1" />
+      <File FileName="状態: FileWrite" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.test__20170920 PreferredExecutionTarget="MonoDevelop.Default" />
