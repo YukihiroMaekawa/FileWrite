@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{33BBE709-16C0-4478-8DC5-7FCFBF5F3275}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="状態: FileWrite">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ログ">
     <Files>
-      <File FileName="状態: FileWrite" />
+      <File FileName="test_20170920/DateTime.cs" Line="1" Column="14" />
+      <File FileName="ログ" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.test__20170920 PreferredExecutionTarget="MonoDevelop.Default" />
